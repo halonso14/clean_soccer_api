@@ -1,0 +1,2 @@
+# Ensure all ts files use LF.
+*.ts      text eol=lf

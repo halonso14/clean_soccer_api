@@ -1,0 +1,6 @@
+{
+  "name": "Clean soccer API",
+  "version": "v1.0.0",
+  "prefix": "/api",
+  "port": 3000
+}

@@ -1,0 +1,1 @@
+export { default as makeKoaCallback } from './koa-callback';
